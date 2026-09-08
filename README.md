@@ -9,4 +9,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/anjalip1533/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0482-license-key-formatting](https://github.com/anjalip1533/Leetcode/tree/master/0482-license-key-formatting) |
 <!---LeetCode Topics End-->
