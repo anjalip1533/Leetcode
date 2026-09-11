@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/anjalip1533/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/anjalip1533/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/anjalip1533/Leetcode/tree/master/0389-find-the-difference) |
 | [0482-license-key-formatting](https://github.com/anjalip1533/Leetcode/tree/master/0482-license-key-formatting) |
 | [0696-count-binary-substrings](https://github.com/anjalip1533/Leetcode/tree/master/0696-count-binary-substrings) |
 ## Hash Table
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/anjalip1533/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/anjalip1533/Leetcode/tree/master/0389-find-the-difference) |
 ## Queue
 |  |
 | ------- |
@@ -25,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/anjalip1533/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/anjalip1533/Leetcode/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/anjalip1533/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
