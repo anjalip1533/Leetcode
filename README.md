@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/anjalip1533/Leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/anjalip1533/Leetcode/tree/master/0415-add-strings) |
 | [0482-license-key-formatting](https://github.com/anjalip1533/Leetcode/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/anjalip1533/Leetcode/tree/master/0500-keyboard-row) |
 | [0696-count-binary-substrings](https://github.com/anjalip1533/Leetcode/tree/master/0696-count-binary-substrings) |
 ## Hash Table
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/anjalip1533/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/anjalip1533/Leetcode/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/anjalip1533/Leetcode/tree/master/0500-keyboard-row) |
 ## Queue
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/anjalip1533/Leetcode/tree/master/0415-add-strings) |
+## Array
+|  |
+| ------- |
+| [0500-keyboard-row](https://github.com/anjalip1533/Leetcode/tree/master/0500-keyboard-row) |
 <!---LeetCode Topics End-->
