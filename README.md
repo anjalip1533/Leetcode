@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/anjalip1533/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anjalip1533/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/anjalip1533/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/anjalip1533/Leetcode/tree/master/0389-find-the-difference) |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/anjalip1533/Leetcode/tree/master/0409-longest-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/anjalip1533/Leetcode/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/anjalip1533/Leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
