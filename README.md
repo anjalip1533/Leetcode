@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anjalip1533/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anjalip1533/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0696-count-binary-substrings](https://github.com/anjalip1533/Leetcode/tree/master/0696-count-binary-substrings) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anjalip1533/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/anjalip1533/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anjalip1533/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/anjalip1533/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -64,9 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anjalip1533/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/anjalip1533/Leetcode/tree/master/0010-regular-expression-matching) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/anjalip1533/Leetcode/tree/master/0010-regular-expression-matching) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/anjalip1533/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
