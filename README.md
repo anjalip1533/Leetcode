@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/anjalip1533/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/anjalip1533/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anjalip1533/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/anjalip1533/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/anjalip1533/Leetcode/tree/master/0071-simplify-path) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anjalip1533/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/anjalip1533/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -86,5 +87,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anjalip1533/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/anjalip1533/Leetcode/tree/master/0071-simplify-path) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anjalip1533/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
