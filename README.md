@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/anjalip1533/Leetcode/tree/master/0047-permutations-ii) |
 | [0389-find-the-difference](https://github.com/anjalip1533/Leetcode/tree/master/0389-find-the-difference) |
 ## Math
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/anjalip1533/Leetcode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/anjalip1533/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/anjalip1533/Leetcode/tree/master/0047-permutations-ii) |
 | [0500-keyboard-row](https://github.com/anjalip1533/Leetcode/tree/master/0500-keyboard-row) |
 ## Greedy
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anjalip1533/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/anjalip1533/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/anjalip1533/Leetcode/tree/master/0047-permutations-ii) |
 ## Stack
 |  |
 | ------- |
