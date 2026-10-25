@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/anjalip1533/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anjalip1533/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anjalip1533/Leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/anjalip1533/Leetcode/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/anjalip1533/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/anjalip1533/Leetcode/tree/master/0415-add-strings) |
 ## Simulation
@@ -105,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anjalip1533/Leetcode/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/anjalip1533/Leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/anjalip1533/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
