@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anjalip1533/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/anjalip1533/Leetcode/tree/master/0031-next-permutation) |
+| [0283-move-zeroes](https://github.com/anjalip1533/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anjalip1533/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0696-count-binary-substrings](https://github.com/anjalip1533/Leetcode/tree/master/0696-count-binary-substrings) |
 ## String
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/anjalip1533/Leetcode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/anjalip1533/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/anjalip1533/Leetcode/tree/master/0047-permutations-ii) |
+| [0283-move-zeroes](https://github.com/anjalip1533/Leetcode/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/anjalip1533/Leetcode/tree/master/0500-keyboard-row) |
 ## Greedy
 |  |
