@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/anjalip1533/Leetcode/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/anjalip1533/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anjalip1533/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/anjalip1533/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/anjalip1533/Leetcode/tree/master/0696-count-binary-substrings) |
 ## String
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/anjalip1533/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anjalip1533/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0349-intersection-of-two-arrays](https://github.com/anjalip1533/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/anjalip1533/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/anjalip1533/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/anjalip1533/Leetcode/tree/master/0409-longest-palindrome) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/anjalip1533/Leetcode/tree/master/0047-permutations-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/anjalip1533/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/anjalip1533/Leetcode/tree/master/0389-find-the-difference) |
 ## Math
 |  |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/anjalip1533/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/anjalip1533/Leetcode/tree/master/0047-permutations-ii) |
 | [0283-move-zeroes](https://github.com/anjalip1533/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/anjalip1533/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/anjalip1533/Leetcode/tree/master/0500-keyboard-row) |
 ## Greedy
 |  |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/anjalip1533/Leetcode/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/anjalip1533/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Newton's Method
 |  |
 | ------- |
