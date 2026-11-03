@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/anjalip1533/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anjalip1533/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anjalip1533/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/anjalip1533/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/anjalip1533/Leetcode/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/anjalip1533/Leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/anjalip1533/Leetcode/tree/master/0412-fizz-buzz) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/anjalip1533/Leetcode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/anjalip1533/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/anjalip1533/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/anjalip1533/Leetcode/tree/master/0048-rotate-image) |
 | [0283-move-zeroes](https://github.com/anjalip1533/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/anjalip1533/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/anjalip1533/Leetcode/tree/master/0500-keyboard-row) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/anjalip1533/Leetcode/tree/master/0292-nim-game) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/anjalip1533/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
